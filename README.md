@@ -1,5 +1,7 @@
 # 12_4_dowcipy_o_chucku_norrisie
 
+https://kruszynapaulina.github.io/12_4_dowcipy_o_chucku_norrisie
+
 Zadanie wykonane w ramamch bootcampu Kodilla - "Frontend developer"
 
 Opis: 
