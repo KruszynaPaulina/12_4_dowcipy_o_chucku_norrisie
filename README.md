@@ -1,6 +1,6 @@
-# 12_4_dowcipy_o_chucku_norrisie
+# Dowcipy_o_chucku_norrisie
 
-https://kruszynapaulina.github.io/12_4_dowcipy_o_chucku_norrisie
+https://kruszynapaulina.github.io/Dowcipy_o_chucku_norrisie
 
 Zadanie wykonane w ramamch bootcampu Kodilla - "Frontend developer"
 
@@ -10,7 +10,9 @@ Zadanie ma na celu przećwiczenie w praktyce wykorzystanie technlogii Ajax. Efek
 Rozwiązania, tchnologie i narzędzia:
 
 - HTML 5
-- JavaScript
+- CSS 3
+- Sass
+- Jquery
 - AJAX
 - API (http://www.icndb.com/api)
 
